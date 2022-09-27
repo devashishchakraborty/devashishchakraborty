@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Devashish Chakraborty=============================================================================================================================================Python Developer----------------I am python developer and currently working around Data Analytics and Visualization and want to progress into the field of Machine Learning and Data Science. I am a Linux enthusiast and really interested in contributing to Open Source in future.* 🌍  I'm based in Delhi* ✉️  You can contact me at [devashishchakra@gmail.com](mailto:devashishchakra@gmail.com)* 🧠  I'm learning Statistics and Data Analytics* ⚡  Other than Programming I am also into Weightlifting and Chess
+Hi 👋 My name is Devashish Chakraborty
+======================================Python Developer----------------I am python developer and currently working around Data Analytics and Visualization and want to progress into the field of Machine Learning and Data Science. I am a Linux enthusiast and really interested in contributing to Open Source in future.* 🌍  I'm based in Delhi* ✉️  You can contact me at [devashishchakra@gmail.com](mailto:devashishchakra@gmail.com)* 🧠  I'm learning Statistics and Data Analytics* ⚡  Other than Programming I am also into Weightlifting and Chess
 
 ### Skills
 
