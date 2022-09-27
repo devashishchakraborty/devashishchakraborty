@@ -20,7 +20,7 @@ Python Developer
 I am python developer and currently working around Data Analytics and Visualization and want to progress into the field of Machine Learning and Data Science. I am a Linux enthusiast and really interested in contributing to Open Source in future.
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [Email](mailto:devashishchakra@gmail.com)
-* 🧠  I'm learning Statistics and Data Analytics 
+* 🧠  I'm learning Statistics and Data Structures and Algorithms
 * ⚡  Other than Programming I am also into Weightlifting and Chess
 
 ### Languages and Tools
