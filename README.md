@@ -17,7 +17,7 @@ Hi 👋 My name is Devashish Chakraborty
 ======================================
 Machine Learning | Automation | Analytics
 ----------------
-I am Python Dev currently working around Data Analytics and Visualization and want to progress into the field of Machine Learning and Data Science. I am a Linux enthusiast and really interested in contributing to Open Source in future.
+I am a Python Dev currently working around Data Analytics and Visualization and want to progress into the field of Machine Learning and Data Science. I am a Linux enthusiast and really interested in contributing to Open Source in future.
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [Email](mailto:devashishchakra@gmail.com)
 * 🧠  I'm learning Statistics and Data Structures and Algorithms
