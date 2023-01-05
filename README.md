@@ -44,4 +44,7 @@ I am a Python Dev currently working around Automation, Scripting and pygame and 
 
 
 ### Socials
-<p align="left"> <a href="https://www.github.com/devashishchakraborty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/devashishchakraborty" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<div>
+  <a href="https://www.github.com/devashishchakraborty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/devashishchakraborty" target="_blank" rel="noreferrer"><img src="https://cdn/jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a></p>
+</div>
