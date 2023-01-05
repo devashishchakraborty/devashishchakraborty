@@ -51,4 +51,4 @@ I am a Python Dev currently working around Automation, Scripting and pygame and 
 
 ### 🔥 Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devashishchakraborty&theme=dracula&border_radius=8)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishchakraborty&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishchakraborty&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
