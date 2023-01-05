@@ -47,7 +47,7 @@ I am a Python Dev currently working around Automation, Scripting and pygame and 
 ### 🔗 Socials:
 <div>
   <a href="https://www.github.com/devashishchakraborty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/devashishchakraborty" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a>
+  <a href="https://www.linkedin.com/in/devashishchakraborty" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a>&nbsp;
   <a href="https://discord.com/users/443706085673533440" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/49796291/210858740-1f7c08d4-0810-4ad2-95fb-3f808376d2cc.svg" height="40" /></a>
 </div>
 
