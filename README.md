@@ -21,7 +21,7 @@ I am a Python Dev currently working around Automation, Scripting and pygame and 
 * 🧠  I'm currently learning Web Development and Data Structures and Algorithms
 * ⚡  Other than Programming I am also into Weightlifting and Chess
 
-### :hammer_and_wrench: Languages and Tools:
+### 🛠️ Languages and Tools:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" height="40"/>&nbsp;
@@ -43,8 +43,11 @@ I am a Python Dev currently working around Automation, Scripting and pygame and 
 </div>
 
 
-### :link: Socials:
+### 🔗 Socials:
 <div>
   <a href="https://www.github.com/devashishchakraborty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/devashishchakraborty" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a>
 </div>
+
+### 🔥 Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devashishchakraborty&theme=dracula&border_radius=8)](https://git.io/streak-stats)
