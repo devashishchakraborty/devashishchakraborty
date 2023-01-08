@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi 👋 My name is Devashish Chakraborty
+Hi 👋 My name is Devashish
 ======================================
 I am a Python Dev currently working around Automation, Scripting and pygame and want to progress into the field of Machine Learning. I am a Linux enthusiast and really interested in contributing to Open Source in future.
 * 🌍  I'm based in Delhi
