@@ -53,4 +53,4 @@ I am a Developer and a Learner currently working around Automation, Scripting an
 
 ### 🔥 Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devashishchakraborty&theme=dracula)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishchakraborty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishchakraborty&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
