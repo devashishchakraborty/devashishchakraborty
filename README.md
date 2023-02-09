@@ -7,7 +7,7 @@ Hi 👋 I am Devashish Chakraborty
 I am a Developer and a Learner currently working around Frontend Web Development, Scripting and want to progress into the field of Fullstack Web Development. I am a Linux enthusiast and really interested in contributing to Open Source in the near future.
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [Email](mailto:devashishchakra@gmail.com)
-* 🧠  I'm currently learning HTML, CSS and Javascript.
+* 🧠  I'm currently learning Javascript.
 * ⚡  Other than Programming I am also into Weightlifting and Chess
 
 ### 🛠️ Languages and Tools:
