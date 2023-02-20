@@ -40,6 +40,6 @@ I am a Developer and a Learner currently working around Frontend Web Development
 </div>
 
 ### 🔥 Stats:
-[![Devashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=devashishchakraborty&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Devashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=devashishchakraborty&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=devashishchakraborty&theme=dracula)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishchakraborty&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
