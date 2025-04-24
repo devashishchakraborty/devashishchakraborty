@@ -4,7 +4,7 @@
 
 Hi 👋 I am Devashish Chakraborty
 ======================================
-I am a Developer and a Learner currently working around Full Stack Web Development, Scripting and want to progress into the field of Software Development. I am a Linux enthusiast and really interested in contributing to Open Source in the near future.
+Web Developer with experience in developing modern web apps using React and Express. Proficient in building full-stack projects with a focus on clean code, performance, and user experience.
 * 🌍  I'm based in Delhi
 * ✉️  You can contact me at [Email](mailto:garudadevachakravarti@gmail.com)
 * 🧠  I'm currently creating projects using React and Express.
